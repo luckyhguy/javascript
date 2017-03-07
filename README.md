@@ -1,7 +1,16 @@
 # javascript
 
+## 1.6 - string
+따옴표나('), 큰따옴표(")로 감싸서 문자열 표현
+문자열 안에 따옴표, 큰따옴표 등의 문자를 활용하려면 escape character를 활용
+escape character는 역슬래시(\)로 사용
+줄바꿈 : \n
+따옴표 : \'
+큰따옴표 : \"
+역슬래시 : \\
 
-## 1.5 - string - number
+
+## 1.5 - number
 javascript에서는 정수, 실수 상관없이 모두 number라는 자료형으로 표현합니다.
 1) parseInt (정수)
 2) parseFloat (실수)
