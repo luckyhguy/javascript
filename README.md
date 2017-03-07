@@ -1,5 +1,16 @@
 # javascript
 
+## 1.9 -Arithmetic 산술연산자
+1)이항연산자 (binary operator)
++, - , *, /, %
+2)단항연산자 (unary operator)
+++a, --a, a++, a-- (차이점확인)
+3)Math관련 명령어
+Math.pow(A,b): A의 b승을 구해줌
+Math.sqrt(A): A의 제곱근을 구해줌
+Math.random():0~1 사이의 임의의 난수를 발생시켜줌
+
+
 ## 1.8 - undefined 와 null
 undefined
 시스템에서 어떤 변수나 속성이 정의되지 않은 경우를 표현하기 위해 사용
