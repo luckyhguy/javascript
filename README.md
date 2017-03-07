@@ -1,9 +1,17 @@
 # javascript
 
+
+## 1.5 - string - number
+javascript에서는 정수, 실수 상관없이 모두 number라는 자료형으로 표현합니다.
+1) parseInt (정수)
+2) parseFloat (실수)
+
+
+
 ## 1.4 - 기본자료형
 자료형 종류(number, string, boolean), typeof() 명령어 사용해보기
 1) lecture04.js 파일에 변수 선언 및 출력을 통해 종류 확인.
-
+2) number - 64비트를 활용, 10^19정도 표현 (-e^63 ~ e^63-1)
 
 ## 1.3 - 변수 선언 및 초기화
 변수란? 프로그램 실행 도중 임의의 값을 저장해 두고 읽을 수 있는 공간
