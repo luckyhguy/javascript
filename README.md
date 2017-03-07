@@ -1,5 +1,14 @@
 # javascript
 
+## 1.8 - undefined 와 null
+undefined
+시스템에서 어떤 변수나 속성이 정의되지 않은 경우를 표현하기 위해 사용
+선언만 하고 초기화가 되지 않는 변수의 타입이나 값
+객체의 정의되지 않은 속성의 타입이나 값
+null
+개발자가 명시적으로 아무것도 없는 비어있는 상태를 나타낼 때 사용
+typeof의 결과는 object이며 값은 null
+
 ## 1.7 - object
 Object
 number, string, boolean의 단순 자료형보다 더 복잡한 자료를 표현할 때 사용
