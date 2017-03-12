@@ -1,5 +1,14 @@
 # javascript
 
+## 2.1 -Relational, Logical operator
+1) Relational operator = 두개의 피연산자를 비교함.
+console창에서 lecture10의 연산자(숫자, 문자) 비교를 통한 boolean값 확인
+a (< , > , <= , >=, ==, !=) b
+2) Logical operator = 두 boolean 피연산자에 대해 연산하는 연산자
+a (&&, ||, !) b
+3) 변수에 값을 주어서 원하는 조건을 만들어 boolean값 도출해내기!
+
+
 ## 2.0 -function 함수의 정의
 반복되는 코드 감소, 코드의 개발 및 수정 용이
 1) 함수 정의 구문
